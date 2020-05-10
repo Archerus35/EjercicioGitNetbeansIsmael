@@ -5,12 +5,23 @@
  */
 package ejerciciogitnetbeansismael;
 
+import java.util.Scanner;
+
 /**
  *
  * @author Pc
  */
-public class PruebaGit {
-	int numero = 20;
+public class UsarPruebaGit {
+
+	/**
+	 * @param args the command line arguments
+	 */
+	public static void main(String[] args) {
+		
+		System.out.println("Hola mundo desde Git");
+		
+		
+	}
 	
 }
 
